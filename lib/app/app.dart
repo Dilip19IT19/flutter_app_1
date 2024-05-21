@@ -11,6 +11,7 @@ class MyWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       title: "My Flutter",
+      
       home:HomeView()
     );
   }
